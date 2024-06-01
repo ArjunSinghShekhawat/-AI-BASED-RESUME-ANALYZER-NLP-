@@ -3,9 +3,9 @@ from typing import List
 
 AUTHOR_NAME = 'Arjun Singh'
 AUTHOR_EMAIL = 'shekhawatsingharjun12345@gmail.com'
-DESCRIPTION = 'Diamond Price Prediction Project'
+DESCRIPTION = 'Resume Analyzer'
 VERSION = '0.0.1'
-NAME = 'DiamondPricePrediction'
+NAME = 'Resume Analyzer'
 HYPEN_E_DOT = '-e .'
 
 
